@@ -6,4 +6,4 @@ A simple sketcher I'm making to become more familiar with SDL3 and C
 
 Use a distrobox with the latest version of Fedora (41 at time of writing) and install the following packages:
 
-- `sudo dnf install gcc make SDL3-devel bear`
+- `sudo dnf install gcc make SDL3-devel`
