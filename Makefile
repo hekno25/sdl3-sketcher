@@ -1,5 +1,5 @@
 CC := gcc
-CFLAGS := -g -Wall -std=c23
+CFLAGS := -g -Wall -std=gnu23
 LIBS := `pkg-config sdl3 --libs`
 
 .PHONY: build
